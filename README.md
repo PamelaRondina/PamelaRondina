@@ -3,28 +3,30 @@
 
 <div align="center">
   <a href="https://github.com/pamelarondina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pamelarondina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelarondina&layout=compact&langs_count=7&theme=tokyonight"/><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pamelarondina&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pamelarondina&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=pamelarondina&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelarondina&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 
-## I'm a newcomer to the tech world, making an incredible career transition. ![image](https://user-images.githubusercontent.com/108991648/181622438-d9ba1ec5-79a1-4412-90c7-f050504b9d06.png) ![image](https://user-images.githubusercontent.com/108991648/181622709-609877dc-04aa-46d9-85b6-7e2fb78d3d69.png)
 
-## 🌱 I’m currently learning
+## ![image](https://user-images.githubusercontent.com/108991648/181622709-609877dc-04aa-46d9-85b6-7e2fb78d3d69.png)I'm a newcomer to the tech world, making an incredible career transition. ![image](https://user-images.githubusercontent.com/108991648/181622438-d9ba1ec5-79a1-4412-90c7-f050504b9d06.png) 
 
-### Programming Languages
+## 🌱 I’m currently learning...
+
+#### **Programming Languages**
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="spring" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="spring" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="spring" width="60" height="60"/>
 
-### Backend Development and Database
+#### Backend Development and Database
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" alt="spring" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="spring" width="60" height="60"/>
 
 
-### Software and Others
+#### Software and Others
 
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="spring" width="60" height="60"/>
@@ -48,7 +50,7 @@
 <a href="https://www.instagram.com/pamela.rondina"><img src="https://img.icons8.com/60/000000/instagram-new.png" alt="instagram"/></a>   
 <a href="https://open.spotify.com/user/pamela.rondina"><img src="https://img.icons8.com/60/000000/spotify--v1.png" alt="spotify"/></a>
    
-## Thanks for visiting my profile, see you next time! ![image](https://user-images.githubusercontent.com/108991648/181627985-c5ae0db5-24ac-4c70-a09e-a17862f70681.png)![image](https://user-images.githubusercontent.com/108991648/181628127-69e6eeb9-4f19-43d3-9461-46ee7e87b02c.png)
+### Thanks for visiting my profile, see you next time! ![image](https://user-images.githubusercontent.com/108991648/181627985-c5ae0db5-24ac-4c70-a09e-a17862f70681.png)![image](https://user-images.githubusercontent.com/108991648/181628127-69e6eeb9-4f19-43d3-9461-46ee7e87b02c.png)
 <!--
 **PamelaRondina/PamelaRondina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
