@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=250"/>
+</p>
+
 
 <!--
 **PamelaRondina/PamelaRondina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +16,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![image](https://user-images.githubusercontent.com/108991648/181401516-7e3b3ed7-3ef3-4dfd-8454-8cdaa3087a87.png)
+![image](https://user-images.githubusercontent.com/108991648/181401516-7e3b3ed7-3ef3-4dfd-8454-8cdaa3087a87.png)
+![image](https://user-images.githubusercontent.com/108991648/181401516-7e3b3ed7-3ef3-4dfd-8454-8cdaa3087a87.png)
+![image](https://user-images.githubusercontent.com/108991648/181401516-7e3b3ed7-3ef3-4dfd-8454-8cdaa3087a87.png)
+
+## Dada a largada para uma nova fase da minha vida!
 -->
