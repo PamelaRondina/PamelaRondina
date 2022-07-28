@@ -1,6 +1,7 @@
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=250"/>
-</p>
+
+
+![cabeçalho](https://user-images.githubusercontent.com/108991648/181558963-d2e2ca67-ecf7-427c-b4b4-39f215e90a31.gif)
+
 
 <!--
 **PamelaRondina/PamelaRondina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
