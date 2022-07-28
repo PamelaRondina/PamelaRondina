@@ -8,6 +8,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelarondina&layout=compact&langs_count=7&theme=calm"/>
 </div>
 
+### 📫 How to reach me
+
+<p align="letf>
+<a href="pamela.rondina@gmail.com"><img src="https://img.icons8.com/60/000000/gmail.png" alt="email"/></a>
+<a href="https://www.linkedin.com/in/pamelarondina/"><img src="https://img.icons8.com/60/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.instagram.com/pamela.rondina"><img src="https://img.icons8.com/60/000000/instagram-new.png" alt="instagram"/></a>   
+<a href="https://open.spotify.com/user/pamela.rondina"><img src="https://img.icons8.com/60/000000/spotify--v1.png" alt="spotify"/></a>
+
 <!--
 **PamelaRondina/PamelaRondina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
