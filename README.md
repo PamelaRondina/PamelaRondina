@@ -10,7 +10,7 @@
 
 
 
-## ![image](https://user-images.githubusercontent.com/108991648/181622709-609877dc-04aa-46d9-85b6-7e2fb78d3d69.png)I'm a newcomer to the tech world, making an incredible career transition. ![image](https://user-images.githubusercontent.com/108991648/181622438-d9ba1ec5-79a1-4412-90c7-f050504b9d06.png) 
+## ![image](https://user-images.githubusercontent.com/108991648/181622709-609877dc-04aa-46d9-85b6-7e2fb78d3d69.png)I'm a newcomer to the tech world, making an incredible career transition ![image](https://user-images.githubusercontent.com/108991648/181622438-d9ba1ec5-79a1-4412-90c7-f050504b9d06.png) 
 
 ## 🌱 I’m currently learning...
 
