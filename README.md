@@ -50,6 +50,7 @@
 <a href="https://www.linkedin.com/in/pamelarondina/"><img src="https://img.icons8.com/60/000000/linkedin.png" alt="linkedin"/></a>
 <a href="https://www.instagram.com/pamela.rondina"><img src="https://img.icons8.com/60/000000/instagram-new.png" alt="instagram"/></a>   
 <a href="https://open.spotify.com/user/pamela.rondina"><img src="https://img.icons8.com/60/000000/spotify--v1.png" alt="spotify"/></a>
+ <a href="https://discord.gg/Pamela.Rondina#5804"><img src="https://img.icons8.com/60/000000/discord-logo.png" alt="discord"/></a>
 </div>
 
    
