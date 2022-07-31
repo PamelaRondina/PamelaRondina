@@ -4,8 +4,8 @@
 <div align="center">
   <a href="https://github.com/pamelarondina">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pamelarondina&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=pamelarondina&layout=compact&langs_count=7&theme=onedark"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelarondina&layout=compact&langs_count=7&theme=onedark"/>
+   
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelarondina&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 
@@ -55,6 +55,9 @@
 ## ![image](https://user-images.githubusercontent.com/108991648/181627985-c5ae0db5-24ac-4c70-a09e-a17862f70681.png) Thanks for visiting my profile, see you next time!![image](https://user-images.githubusercontent.com/108991648/181628127-69e6eeb9-4f19-43d3-9461-46ee7e87b02c.png)
                                                                                                                                 
 <!--
+
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=pamelarondina&layout=compact&langs_count=7&theme=onedark"/>
+
 **PamelaRondina/PamelaRondina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
