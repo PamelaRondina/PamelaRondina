@@ -53,7 +53,11 @@
 
    
 ## ![image](https://user-images.githubusercontent.com/108991648/181627985-c5ae0db5-24ac-4c70-a09e-a17862f70681.png) Thanks for visiting my profile, see you next time!![image](https://user-images.githubusercontent.com/108991648/181628127-69e6eeb9-4f19-43d3-9461-46ee7e87b02c.png)
-                                                                                                                                
+
+- Want to know how I made this profile: click [here](https://github.com/PamelaRondina/step-by-step)
+
+- Quer saber como fiz esse perfil: clique [aqui](https://github.com/PamelaRondina/step-by-step)
+
 <!--
 
 
