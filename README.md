@@ -3,8 +3,9 @@
 
 <div align="center">
   <a href="https://github.com/pamelarondina">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pamelarondina&show_icons=true&bg_color=B0C4DE&title_color=FF6347&icon_color=DB7093&include_all_commits=true&count_private=true&hide_border=true"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelarondina&langs_count=10&bg_color=b0c4de&title_color=ff6347&icon_color=ddb7093&hide_border=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pamelarondina&show_icons=true&bg_color=B0C4DE&title_color=FF6347&icon_color=DB7093&include_all_commits=true&count_private=true&hide_border=true"/>
+      <br>
+    <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelarondina&langs_count=10&bg_color=b0c4de&title_color=ff6347&icon_color=ddb7093&hide_border=true"/>
 </div>
 
 
