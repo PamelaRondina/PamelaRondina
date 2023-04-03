@@ -1,7 +1,8 @@
 
-![cabeçalho](https://user-images.githubusercontent.com/108991648/181558963-d2e2ca67-ecf7-427c-b4b4-39f215e90a31.gif)
 
 <div align="center">
+  <img height="auto" src="https://user-images.githubusercontent.com/108991648/181558963-d2e2ca67-ecf7-427c-b4b4-39f215e90a31.gif"/>
+  <br>
   <a href="https://github.com/pamelarondina">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pamelarondina&show_icons=true&bg_color=B0C4DE&title_color=FF6347&icon_color=DB7093&include_all_commits=true&count_private=true&hide_border=true"/>
       <br>
